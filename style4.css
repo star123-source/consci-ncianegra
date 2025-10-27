@@ -3,5 +3,11 @@ body {
     background-color: brown;
     margin: 0%;
     padding: 20px;
-    border: #fbe1e1;
+    border: #efd2d2;
+}
+
+header {
+    padding: 10px ;
+    border:#efd2d2
+    
 }
