@@ -38,7 +38,6 @@ main img {
 display: flex;
 padding: 10px;
 justify-content: center;
-border-radius: 25px;
 margin-left: 5px;
 color:#a74a4a;
 
@@ -67,4 +66,8 @@ footer {
 
 .container img,.machadoAssis img {
     border-radius: 40px;
+}
+
+.container img {
+    left: 5px;
 }
