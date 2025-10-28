@@ -28,6 +28,7 @@ main {
 main img {
   width: 200px;
   height: 100px;  
+  
 
 }
 
@@ -37,6 +38,7 @@ main img {
 display: flex;
 padding: 10px;
 justify-content: center;
+border-radius: #a74a4a;
 
 
 
