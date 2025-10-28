@@ -30,11 +30,12 @@ justify-content: center;
 
 }
 
+
+
 footer {
     background-color: rgb(225, 164, 153);
     text-align: center;
     padding: 20px;
-    font: size 14px;
     color: black;
     font-size: 2px solid #ac6969 ;
 }
