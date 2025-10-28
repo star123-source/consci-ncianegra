@@ -64,6 +64,6 @@ footer {
     border-radius: 25px;
 }
 
-.container img{
+.container img,.machadoAssis img {
     border-radius: 40px;
 }
