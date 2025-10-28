@@ -38,7 +38,8 @@ main img {
 display: flex;
 padding: 10px;
 justify-content: center;
-border-radius: #a74a4a;
+border-radius: 25px;
+color:#a74a4a;
 
 
 
