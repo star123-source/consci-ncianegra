@@ -29,7 +29,11 @@ main img {
 
 }
 
-container {
+.machadodeassis {
+    width:250px ;
+    height: 150px;
+}
+.container {
 
 display: flex;
 padding: 10px;
