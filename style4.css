@@ -8,7 +8,10 @@ body {
 
 header {
     padding: 10px ;
-    border:#efd2d2
+    height: 400px;
+    width: 400px;
+    border:#efd2d2;
+
     
 }
 
@@ -21,6 +24,7 @@ main {
 
 display: flex;
 padding: 10px;
+justify-content: center;
 
 }
 
