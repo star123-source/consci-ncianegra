@@ -3,7 +3,6 @@ body {
     background-color: brown;
     height: 100%;
     margin: 0%;
-    padding: 20px;
     border: #efd2d2;
     
 }
@@ -21,7 +20,7 @@ header h1 {
     margin: 0;
     font-size: 28px;
     color: #b54444;
-    padding: 10px;
+    padding: 8px;
 }
     
 
