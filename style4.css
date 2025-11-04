@@ -73,8 +73,8 @@ footer {
     background-color: rgb(225, 164, 153);
     text-align: center;
     padding: 20px;
-    color: black;
-    font-size: 2px solid #ac6969 ;
+    color: #ac6969;
+    font-size: 28px;
     border-radius: 25px;
 }
 
