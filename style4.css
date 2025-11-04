@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    padding: 20px ;
+    padding: 10px ;
     border: 2px solid #efd2d2;
     text-align:center;
     background-color: #ac6969;
@@ -19,6 +19,7 @@ header h1 {
     margin: 0;
     font-size: 28px;
     color: #b54444;
+    padding: 10px;
 }
 
 
