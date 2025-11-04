@@ -1,9 +1,11 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: brown;
+    height: 100%;
     margin: 0%;
     padding: 20px;
     border: #efd2d2;
+    
 }
 
 header {
