@@ -8,12 +8,17 @@ body {
 
 header {
     padding: 10px ;
-    border:#efd2d2;
-    height: 100px;
-    width: 200px;
-    text-align:center
+    border: 2px solid #efd2d2;
+    text-align:center;
+    background-color: #fff;
 
     
+}
+
+header h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #a74a4a;
 }
 
 main {
@@ -29,6 +34,7 @@ main {
 main img {
   width: 200px;
   height: 100px;  
+  border-radius: 25px;
   
 
 }
