@@ -22,7 +22,10 @@ header h1 {
     color: #b54444;
     padding: 4px;
 }
-    
+
+header nav li {
+    display: inline-block;
+}
 
 
 main {
